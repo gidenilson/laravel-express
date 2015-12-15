@@ -15,26 +15,29 @@
     <body>
         <nav class="navbar navbar-default navbar-fixed-top">
             <div class="container">
-                <h2>MiniBlog</h2>
+                <a class="navbar-brand" href="#">MiniBlog</a>
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="{{route('home')}}">home</a>
+                    </li>
+                    <li>
+                        <a href="{{route('admin.posts.index')}}">admin</a>
+                    </li>                    
+                </ul>
+                
             </div>
         </nav>
         <div class="container">
             <div class="row">
-                <div class="col-md-8">
+                <div class="col-md-12">
                     @yield('posts')
-                </div>
-                <div class="col-md-4">
-                    <h1>Tags</h1>
-                    <p>
-                        <span class="label label-primary">educação</span>
-                        <span class="label label-primary">tecnologia</span>
-                        <span class="label label-primary">ambiente</span>
-                        <span class="label label-primary">php</span>
-                    </p>
+                    @yield('admin-posts')
+                    @yield('auth-login')
                 </div>
             </div>
 
         </div>
+
         <nav class="navbar navbar-default navbar-fixed-bottom">
             <div class="container">
                 www.gidenilson.com.br

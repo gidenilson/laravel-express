@@ -15,4 +15,5 @@ return array(
     '64777cd7d356cde6e827c1fa49f98dbd' => $vendorDir . '/paragonie/random_compat/lib/random.php',
     '1e5af5634a432902a43e296abb56f758' => $vendorDir . '/laravel/framework/src/Illuminate/Foundation/helpers.php',
     '9bfc7149f9758d59054ff388ac6d30d2' => $vendorDir . '/laravel/framework/src/Illuminate/Support/helpers.php',
+    '8c9698b305e308ed34201edf1f3c1e48' => $vendorDir . '/illuminate/html/helpers.php',
 );

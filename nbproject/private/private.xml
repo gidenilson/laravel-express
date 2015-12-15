@@ -3,10 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Copy%20gidenilson@gmail.com/Computacao/Curso%20Laravel%205/laravel-express/app/Http/Controllers/BlogController.php</file>
-            <file>file:/D:/Copy%20gidenilson@gmail.com/Computacao/Curso%20Laravel%205/laravel-express/resources/views/template.blade.php</file>
-            <file>file:/D:/Copy%20gidenilson@gmail.com/Computacao/Curso%20Laravel%205/laravel-express/public/css/app.css</file>
-            <file>file:/D:/Copy%20gidenilson@gmail.com/Computacao/Curso%20Laravel%205/laravel-express/app/Http/routes.php</file>
+            <file>file:/D:/Copy/Computacao/Curso%20Laravel%205/laravel-express/resources/views/admin/posts/edit.blade.php</file>
+            <file>file:/D:/Copy/Computacao/Curso%20Laravel%205/laravel-express/resources/views/admin/posts/_form.blade.php</file>
+            <file>file:/D:/Copy/Computacao/Curso%20Laravel%205/laravel-express/resources/views/admin/posts/index.blade.php</file>
+            <file>file:/D:/Copy/Computacao/Curso%20Laravel%205/laravel-express/app/Http/routes.php</file>
+            <file>file:/D:/Copy/Computacao/Curso%20Laravel%205/laravel-express/resources/views/admin/posts/create.blade.php</file>
+            <file>file:/D:/Copy/Computacao/Curso%20Laravel%205/laravel-express/app/Post.php</file>
         </group>
     </open-files>
 </project-private>
